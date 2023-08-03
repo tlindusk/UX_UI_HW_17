@@ -1,0 +1,70 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.naviColor {
+    padding: 10px;
+    background-color: #B2ABFF;
+}
+
+.logo {
+    width: 23%;
+    height: auto;
+    padding: auto;
+    text-align: center;
+}
+
+#imgLogo {
+    max-width: 80px;
+    height: auto;
+}
+
+#imgHero {
+    max-width: 600px;
+    height: auto;
+}
+
+nav {
+    width: 73%;
+    padding: auto;
+}
+
+ul {
+    width: 75%;
+    margin: auto;
+    display: inline-block;
+    vertical-align: top;
+    padding: auto;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 28px;
+}
+
+li {
+    width: 200px;
+}
+
+.heroImg {
+    max-width: 0px;
+    height: auto;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 28px;
+    background-color: #B2ABFF;
+    padding: 2%;
+}
+
+footer {
+    background-color: #373738;
+    padding: 1%;
+}
