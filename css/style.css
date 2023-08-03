@@ -9,6 +9,11 @@
     background-color: #B2ABFF;
 }
 
+nav {
+    width: 73%;
+    padding: auto;
+}
+
 .logo {
     width: 23%;
     height: auto;
@@ -26,13 +31,25 @@
     height: auto;
 }
 
-nav {
-    width: 73%;
-    padding: auto;
+.imgProject {
+    max-width: 400px;
+    height: auto;
+    border: 2px solid black;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    width: 50%;
+}
+
+h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 28px;
 }
 
 ul {
-    width: 75%;
+    width: auto;
     margin: auto;
     display: inline-block;
     vertical-align: top;
@@ -43,25 +60,26 @@ ul {
 }
 
 li {
-    width: 200px;
+    width: 100px;
 }
 
 .heroImg {
-    max-width: 0px;
+    max-width: 2000px;
     height: auto;
     padding: 25px;
 }
 
 .content {
-    width: 500px;
+    width: auto;
     margin: 0 auto;
 }
 
 button {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 28px;
+    font-size: 21px;
     background-color: #B2ABFF;
-    padding: 2%;
+    padding: 1%;
+    width: 400px;
 }
 
 footer {
